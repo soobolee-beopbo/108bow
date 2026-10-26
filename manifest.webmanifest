@@ -1,6 +1,6 @@
 {
-  "name": "108배 오프라인 누적 수행 기록",
-  "short_name": "108배 기록",
+  "name": "108배 정진",
+  "short_name": "108배",
   "description": "108배 세트별 시간과 누적 절 수를 오프라인으로 기록합니다.",
   "start_url": "./index.html",
   "scope": "./",
